@@ -1,6 +1,10 @@
 #!/bin/bash
 
+rm -rf deck
+mkdir deck
 cp deck.pptx deck/
 pushd deck
 unzip deck.pptx
+find . -type f -name '*.xml' | while read XML; do xmllint --format $XML > /tmp/xml; cp /tmp/xml $XML; done
+rm deck.pptx
 popd
