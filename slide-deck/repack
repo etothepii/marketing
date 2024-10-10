@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pushd deck
+zip -r ../deck-out.pptx *
+popd
+open deck-out.pptx
+

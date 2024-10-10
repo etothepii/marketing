@@ -1,2 +1,642 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><p:cSld><p:spTree><p:nvGrpSpPr><p:cNvPr id="1" name=""/><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/><a:chOff x="0" y="0"/><a:chExt cx="0" cy="0"/></a:xfrm></p:grpSpPr><p:pic><p:nvPicPr><p:cNvPr id="32" name="Picture 31" descr="Close-up of a cactus with thorns&#xA;&#xA;Description automatically generated"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{42469CF2-1092-B6D0-D2AA-B531739C1A50}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId3" cstate="screen"><a:extLst><a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}"><a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="6896381" y="-125522"/><a:ext cx="10674052" cy="7109044"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic><p:sp><p:nvSpPr><p:cNvPr id="34" name="Rectangle 33"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{AFCCDF30-AECB-97BE-9E6C-B1F1CB4533BB}"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="4330073" y="3675009"/><a:ext cx="1081072" cy="108207"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="7CFC00"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx="2"><a:schemeClr val="accent1"><a:shade val="15000"/></a:schemeClr></a:lnRef><a:fillRef idx="1"><a:schemeClr val="accent1"/></a:fillRef><a:effectRef idx="0"><a:schemeClr val="accent1"/></a:effectRef><a:fontRef idx="minor"><a:schemeClr val="lt1"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol="0" anchor="ctr"/><a:lstStyle/><a:p><a:pPr algn="ctr"/><a:endParaRPr lang="en-GB" sz="1600" dirty="0"/></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="35" name="Rectangle 34"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{8E9FB9DF-CD1C-1A18-16FD-61709F505689}"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="7533491" y="3620905"/><a:ext cx="1081072" cy="108207"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="7CFC00"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx="2"><a:schemeClr val="accent1"><a:shade val="15000"/></a:schemeClr></a:lnRef><a:fillRef idx="1"><a:schemeClr val="accent1"/></a:fillRef><a:effectRef idx="0"><a:schemeClr val="accent1"/></a:effectRef><a:fontRef idx="minor"><a:schemeClr val="lt1"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol="0" anchor="ctr"/><a:lstStyle/><a:p><a:pPr algn="ctr"/><a:endParaRPr lang="en-GB" sz="1600" dirty="0"/></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="33" name="Rectangle 32"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{E8DC484C-4857-02E9-2595-8F01EC7E09A4}"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="1511233" y="3713221"/><a:ext cx="1081072" cy="108207"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val="7CFC00"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx="2"><a:schemeClr val="accent1"><a:shade val="15000"/></a:schemeClr></a:lnRef><a:fillRef idx="1"><a:schemeClr val="accent1"/></a:fillRef><a:effectRef idx="0"><a:schemeClr val="accent1"/></a:effectRef><a:fontRef idx="minor"><a:schemeClr val="lt1"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol="0" anchor="ctr"/><a:lstStyle/><a:p><a:pPr algn="ctr"/><a:endParaRPr lang="en-GB" sz="1600" dirty="0"/></a:p></p:txBody></p:sp><p:pic><p:nvPicPr><p:cNvPr id="4" name="Object 3" descr="preencoded.png"/><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId4"/><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="1006093" y="476327"/><a:ext cx="2160270" cy="966978"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic><p:sp><p:nvSpPr><p:cNvPr id="9" name="Object 8"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="766559" y="589789"/><a:ext cx="2078278" cy="473202"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/><a:lstStyle/><a:p><a:pPr><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="3120" b="1" dirty="0"><a:solidFill><a:srgbClr val="7CFC00"/></a:solidFill><a:latin typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/><a:ea typeface="Poppins" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/></a:rPr><a:t>Solution</a:t></a:r><a:endParaRPr lang="en-US" sz="2160" b="1" dirty="0"><a:solidFill><a:srgbClr val="7CFC00"/></a:solidFill><a:latin typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/><a:cs typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="10" name="Object 9"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="639548" y="3625183"/><a:ext cx="2523294" cy="1124606"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/><a:lstStyle/><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="1440" b="1" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:rPr><a:t>CONSUME</a:t></a:r></a:p><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:endParaRPr lang="en-US" sz="1440" b="1" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:endParaRPr></a:p><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="1440" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:rPr><a:t>Submission ingestion and triage-level analysis</a:t></a:r><a:endParaRPr lang="en-US" sz="2160" dirty="0"><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="11" name="Object 10"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="3489781" y="3600037"/><a:ext cx="2692720" cy="1093168"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/><a:lstStyle/><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="1440" b="1" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:rPr><a:t>COMPARE</a:t></a:r></a:p><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:endParaRPr lang="en-US" sz="1440" b="1" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:endParaRPr></a:p><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="1440" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:rPr><a:t>Data visualization and pricing for individual and portfolio risks. </a:t></a:r><a:endParaRPr lang="en-US" sz="2160" dirty="0"><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="12" name="Object 11"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="6401329" y="3513727"/><a:ext cx="2914972" cy="1124712"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/><a:lstStyle/><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="1440" b="1" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:rPr><a:t>COMMUNICATE</a:t></a:r></a:p><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:endParaRPr lang="en-US" sz="1440" b="1" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:endParaRPr></a:p><a:p><a:pPr algn="ctr"><a:buNone/></a:pPr><a:r><a:rPr lang="en-US" sz="1440" dirty="0"><a:solidFill><a:srgbClr val="3C3C3C"/></a:solidFill><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:ea typeface="Roboto" pitchFamily="34" charset="-122"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:rPr><a:t>One-click transfer of submissions between participants in the Cactus network and beyond.</a:t></a:r><a:endParaRPr lang="en-US" sz="2160" dirty="0"><a:latin typeface="Poppins" pitchFamily="2" charset="77"/><a:cs typeface="Poppins" pitchFamily="2" charset="77"/></a:endParaRPr></a:p></p:txBody></p:sp><p:pic><p:nvPicPr><p:cNvPr id="3" name="Graphic 2"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{99F86EAD-2FFC-F338-9E65-00CC68B46A30}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId5"><a:extLst><a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}"><asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId6"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="575121" y="5993326"/><a:ext cx="2269716" cy="480132"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic><p:pic><p:nvPicPr><p:cNvPr id="13" name="Graphic 12"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{FCA29C6E-D554-DF82-97AF-0A5D777A90CB}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId7"><a:extLst><a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}"><asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId8"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="4376661" y="2334803"/><a:ext cx="918960" cy="918960"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic><p:pic><p:nvPicPr><p:cNvPr id="17" name="Graphic 16"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{B4CF193E-1AB1-5C5E-4B68-B7DAC67A1098}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId9"><a:extLst><a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}"><asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId10"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="7255089" y="2432227"/><a:ext cx="918959" cy="918959"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic><p:pic><p:nvPicPr><p:cNvPr id="20" name="Graphic 19"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{C13B6D24-11BF-75FC-8872-BC4A145CBA57}"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect="1"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed="rId11"><a:extLst><a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}"><asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId12"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x="1496491" y="2444355"/><a:ext cx="809408" cy="809408"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></p:spPr></p:pic></p:spTree><p:extLst><p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}"><p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="1465311974"/></p:ext></p:extLst></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr></p:sld>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="32" name="Picture 31" descr="Close-up of a cactus with thorns&#10;&#10;Description automatically generated">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{42469CF2-1092-B6D0-D2AA-B531739C1A50}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId3" cstate="screen">
+            <a:extLst>
+              <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+              </a:ext>
+            </a:extLst>
+          </a:blip>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="6896381" y="-125522"/>
+            <a:ext cx="10674052" cy="7109044"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="34" name="Rectangle 33">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{AFCCDF30-AECB-97BE-9E6C-B1F1CB4533BB}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4330073" y="3675009"/>
+            <a:ext cx="1081072" cy="108207"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="7CFC00"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="15000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="en-GB" sz="1600" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="35" name="Rectangle 34">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{8E9FB9DF-CD1C-1A18-16FD-61709F505689}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7533491" y="3620905"/>
+            <a:ext cx="1081072" cy="108207"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="7CFC00"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="15000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="en-GB" sz="1600" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="33" name="Rectangle 32">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{E8DC484C-4857-02E9-2595-8F01EC7E09A4}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1511233" y="3713221"/>
+            <a:ext cx="1081072" cy="108207"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="7CFC00"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:style>
+          <a:lnRef idx="2">
+            <a:schemeClr val="accent1">
+              <a:shade val="15000"/>
+            </a:schemeClr>
+          </a:lnRef>
+          <a:fillRef idx="1">
+            <a:schemeClr val="accent1"/>
+          </a:fillRef>
+          <a:effectRef idx="0">
+            <a:schemeClr val="accent1"/>
+          </a:effectRef>
+          <a:fontRef idx="minor">
+            <a:schemeClr val="lt1"/>
+          </a:fontRef>
+        </p:style>
+        <p:txBody>
+          <a:bodyPr rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr"/>
+            <a:endParaRPr lang="en-GB" sz="1600" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="4" name="Object 3" descr="preencoded.png"/>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId4"/>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1006093" y="476327"/>
+            <a:ext cx="2160270" cy="966978"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="9" name="Object 8"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="766559" y="589789"/>
+            <a:ext cx="2078278" cy="473202"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="3120" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="7CFC00"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Poppins" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>Solution</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="2160" b="1" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="7CFC00"/>
+              </a:solidFill>
+              <a:latin typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/>
+              <a:cs typeface="Poppins ExtraBold" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="10" name="Object 9"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="639548" y="3625183"/>
+            <a:ext cx="2523294" cy="1124606"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1440" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="3C3C3C"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>CONSUME</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr lang="en-US" sz="1440" b="1" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="3C3C3C"/>
+              </a:solidFill>
+              <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+              <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+              <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1440" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="3C3C3C"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>Submission ingestion and triage-level analysis</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="2160" dirty="0">
+              <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+              <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="11" name="Object 10"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="3489781" y="3600037"/>
+            <a:ext cx="2692720" cy="1093168"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1440" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="3C3C3C"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>COMPARE</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr lang="en-US" sz="1440" b="1" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="3C3C3C"/>
+              </a:solidFill>
+              <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+              <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+              <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1440" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="3C3C3C"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>Data visualization and pricing for individual and portfolio risks. </a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="2160" dirty="0">
+              <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+              <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="12" name="Object 11"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="6401329" y="3513727"/>
+            <a:ext cx="2914972" cy="1124712"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="t"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1440" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="3C3C3C"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>COMMUNICATE</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr lang="en-US" sz="1440" b="1" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="3C3C3C"/>
+              </a:solidFill>
+              <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+              <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+              <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="ctr">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1440" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="3C3C3C"/>
+                </a:solidFill>
+                <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+                <a:ea typeface="Roboto" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+              </a:rPr>
+              <a:t>One-click transfer of submissions between participants in the Cactus network and beyond.</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="2160" dirty="0">
+              <a:latin typeface="Poppins" pitchFamily="2" charset="77"/>
+              <a:cs typeface="Poppins" pitchFamily="2" charset="77"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="3" name="Graphic 2">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{99F86EAD-2FFC-F338-9E65-00CC68B46A30}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId5">
+            <a:extLst>
+              <a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}">
+                <asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId6"/>
+              </a:ext>
+            </a:extLst>
+          </a:blip>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="575121" y="5993326"/>
+            <a:ext cx="2269716" cy="480132"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="13" name="Graphic 12">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{FCA29C6E-D554-DF82-97AF-0A5D777A90CB}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId7">
+            <a:extLst>
+              <a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}">
+                <asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId8"/>
+              </a:ext>
+            </a:extLst>
+          </a:blip>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4376661" y="2334803"/>
+            <a:ext cx="918960" cy="918960"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="17" name="Graphic 16">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{B4CF193E-1AB1-5C5E-4B68-B7DAC67A1098}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId9">
+            <a:extLst>
+              <a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}">
+                <asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId10"/>
+              </a:ext>
+            </a:extLst>
+          </a:blip>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7255089" y="2432227"/>
+            <a:ext cx="918959" cy="918959"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="20" name="Graphic 19">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{C13B6D24-11BF-75FC-8872-BC4A145CBA57}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId11">
+            <a:extLst>
+              <a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}">
+                <asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" r:embed="rId12"/>
+              </a:ext>
+            </a:extLst>
+          </a:blip>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1496491" y="2444355"/>
+            <a:ext cx="809408" cy="809408"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+    </p:spTree>
+    <p:extLst>
+      <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="1465311974"/>
+      </p:ext>
+    </p:extLst>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>
