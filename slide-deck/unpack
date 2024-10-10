@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp deck.pptx deck/
+pushd deck
+unzip deck.pptx
+popd
